@@ -1,6 +1,7 @@
 @ echo off
-color F
+pause
 echo Hi guys
+
 msg * Enter to begin installation
 msg * You are hacked
 msg * Computer isn't responding want to shutdown
@@ -15,5 +16,4 @@ msg * Virus is entering in your PC
 msg * Hard disk corrupted computer going to shutdown forever your private info is being gathered
 msg * It will never stop, goodbye you are gonna be hacked
 msg * It is a joke
-timeout 5
-shudown -s
+timeout 60 shudown -s
