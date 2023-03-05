@@ -16,4 +16,4 @@ msg * Virus is entering in your PC
 msg * Hard disk corrupted computer going to shutdown forever your private info is being gathered
 msg * It will never stop, goodbye you are gonna be hacked
 msg * It is a joke
-timeout 60 shudown -s
+shutdown -r
